@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:uicomponent/configs/colors.dart';
+
+part of '../uicomponent.dart';
 
 enum RoundedButtonVariant {
   OUTLINE,

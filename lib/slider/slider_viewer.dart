@@ -1,10 +1,4 @@
-import 'package:carousel_slider/carousel_slider.dart';
-import 'package:flutter/material.dart';
-import 'package:uicomponent/configs/colors.dart';
-import 'package:uicomponent/container/rounded_container.dart';
-import 'package:uicomponent/divide/divide.dart';
-import 'package:uicomponent/image_viewer/network_image_viewer.dart';
-import 'package:uicomponent/text/my_text.dart';
+part of '../uicomponent.dart';
 
 class SliderViewer extends StatefulWidget {
   List<String> imageUrlList;

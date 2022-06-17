@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-import 'package:uicomponent/configs/colors.dart';
+part of '../uicomponent.dart';
 
 class MyText extends StatelessWidget {
   MyText(this.text,

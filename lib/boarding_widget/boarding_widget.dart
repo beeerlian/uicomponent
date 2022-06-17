@@ -1,8 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:uicomponent/button/rounded_button.dart';
-import 'package:uicomponent/configs/colors.dart';
-import 'package:uicomponent/divide/divide.dart';
-import 'package:uicomponent/text/my_text.dart';
+part of '../uicomponent.dart';
 
 class ModalBoarding extends StatefulWidget {
   ModalBoarding({Key? key, required this.onBoardingData, required this.onStart})

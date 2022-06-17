@@ -1,7 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:uicomponent/configs/colors.dart';
-import 'package:uicomponent/container/rounded_container.dart';
-import 'package:uicomponent/text/my_text.dart';
+
+part of '../uicomponent.dart';
 
 class GroupChip<T> extends StatefulWidget {
   GroupChip(

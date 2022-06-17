@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of '../uicomponent.dart';
 
 class RoundedContainer extends StatelessWidget {
   RoundedContainer(

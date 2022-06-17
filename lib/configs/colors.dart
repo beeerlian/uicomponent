@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of '../uicomponent.dart';
 
 class ColorTheme {
   static const Color primary = Color(0xFF00AB55);

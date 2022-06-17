@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of '../uicomponent.dart';
 
 class RouteNotFoundPage extends StatelessWidget {
   const RouteNotFoundPage({Key? key}) : super(key: key);

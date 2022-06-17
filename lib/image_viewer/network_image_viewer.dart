@@ -1,6 +1,5 @@
-import 'package:cached_network_image/cached_network_image.dart';
-import 'package:flutter/material.dart';
-import 'package:uicomponent/configs/colors.dart';
+
+part of '../uicomponent.dart';
 
 class NetworkImageViewer extends StatelessWidget {
   const NetworkImageViewer({

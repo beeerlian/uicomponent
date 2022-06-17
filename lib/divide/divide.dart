@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of '../uicomponent.dart';
 
 class Divide extends StatelessWidget {
   const Divide({Key? key, this.height = 0, this.width = 0}) : super(key: key);

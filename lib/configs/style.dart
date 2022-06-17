@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:uicomponent/configs/colors.dart';
+part of '../uicomponent.dart';
 
 ThemeData theme(BuildContext context) {
   return ThemeData(
