@@ -18,6 +18,7 @@ part 'image_viewer/asset_image_viewer.dart';
 part 'image_viewer/network_image_viewer.dart';
 part 'radio/my_radio.dart';
 part 'route_not_found/route_not_found.dart';
+part 'scroll_behaviour/no_glow_scroll_behavior.dart';
 part 'slider/slider_viewer.dart';
 part 'svg_viewer/svg_viewer.dart';
 part 'text/my_text.dart';
